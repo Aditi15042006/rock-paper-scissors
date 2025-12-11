@@ -1,4 +1,4 @@
-# The "Rock - Paper - Scissors" game by Hiusein
+# The "Rock - Paper - Scissors" game by Aditi15042006
 ![image](https://github.com/hiuseinlesho/-RockPaperScissorsByHiusein/assets/133807047/02c03c37-f0e2-41ea-a62a-98c4f0435797)
 
 This is a simple console game "Rock Paper Scissors".
